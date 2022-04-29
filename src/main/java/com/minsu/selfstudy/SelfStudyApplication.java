@@ -10,4 +10,5 @@ public class SelfStudyApplication {
 		SpringApplication.run(SelfStudyApplication.class, args);
 	}
 
+
 }
